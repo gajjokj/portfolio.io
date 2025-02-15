@@ -17,4 +17,14 @@ Tenho experiÇencias nas seguintes linguagens:
 - **Ferramentas:**
 
    - Git
-  
+
+  ## Contato
+
+Você pode me encontrar nos seguintes canais:
+
+- **Email:** vituyug@gmail.com
+- **Instagram:**[_jaoyy](https://www.instagram.com/_jaoyy/)
+- **LinkedIn:** [Victor Barreto](https://www.linkedin.com/in/victor-barrt/)
+- **GitHub:** [Victor Barreto](https://github.com/gajjokj/)
+
+---
