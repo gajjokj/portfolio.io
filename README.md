@@ -13,6 +13,8 @@ Tenho experiências nas seguintes linguagens:
   -   PHP
   -   Javascript
   -   Python
+  -   HTML
+  -   CSS
 
 - **Ferramentas:**
 
