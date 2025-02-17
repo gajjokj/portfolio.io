@@ -6,7 +6,7 @@ Olá! Meu nome é Victor, tenho 18 anos e sou estudante da Universidade Federal 
 
 ## Tecnologias
 
-Tenho experiÇencias nas seguintes linguagens:
+Tenho experiências nas seguintes linguagens:
 
 - **Linguagem de Programação:**
 
